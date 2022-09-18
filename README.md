@@ -1,5 +1,5 @@
-<h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<h1 align=center>😈😈</h1>
+<img src = "https://te.legra.ph/file/85aa9c86485bd0d711424.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
@@ -10,7 +10,7 @@
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
+`python3 -m HarukiRobot`
 
 
 ### Configuration
